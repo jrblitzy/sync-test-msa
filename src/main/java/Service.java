@@ -56,7 +56,7 @@ public class SvcaService {
         // Export step 3
         // Export step 4
         // Export step 5
-        // Export step 6
+        // Export step 6: user2 bitbucket export
         // Export step 7
         return in;
     }
