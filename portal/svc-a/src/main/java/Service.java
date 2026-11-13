@@ -4,7 +4,7 @@ public class SvcaService {
     // ---- Validation ----
     public String validation(String in) {
         // Validation step 1
-        // Validation step 2
+        // Validation step 2: alice blitzy svc-a validation
         // Validation step 3
         // Validation step 4
         // Validation step 5
