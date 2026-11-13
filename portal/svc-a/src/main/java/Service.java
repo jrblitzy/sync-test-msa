@@ -8,7 +8,7 @@ public class SvcaService {
         // Validation step 3
         // Validation step 4
         // Validation step 5
-        // Validation step 6
+        // Validation step 6: user1 bitbucket validation
         // Validation step 7
         return in;
     }
@@ -56,7 +56,7 @@ public class SvcaService {
         // Export step 3
         // Export step 4
         // Export step 5
-        // Export step 6
+        // Export step 6: user2 bitbucket export
         // Export step 7
         return in;
     }
