@@ -16,7 +16,7 @@ public class SvcbService {
     // ---- Pricing ----
     public String pricing(String in) {
         // Pricing step 1
-        // Pricing step 2
+        // Pricing step 2: bob blitzy svc-b pricing
         // Pricing step 3
         // Pricing step 4
         // Pricing step 5
