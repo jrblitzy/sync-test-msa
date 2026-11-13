@@ -31,7 +31,7 @@ public class SvccService {
         // Mapping step 2
         // Mapping step 3
         // Mapping step 4
-        // Mapping step 5
+        // Mapping step 5: colleague svc-c mapping
         // Mapping step 6
         // Mapping step 7
         return in;
